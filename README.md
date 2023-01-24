@@ -10,7 +10,9 @@
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=MySQL)
 ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=Docker)
 ![Docker-compose](https://img.shields.io/badge/Docker--compose-black?style=flat-square&logo=Docker)
+![Redis](https://img.shields.io/badge/Redis-171515?style=flat-square&logo=Redis)
 ![Nginx](https://img.shields.io/badge/Nginx-black?style=flat-square&logo=Nginx)
+![Pytest](https://img.shields.io/badge/Pytest-171515?style=flat-square&logo=Pytest)
 
 ![HTML5](https://img.shields.io/badge/HTML5-black?style=flat-square&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/CSS-black?style=flat-square&logo=CSS3)
