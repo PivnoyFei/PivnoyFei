@@ -8,6 +8,7 @@
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-black?style=flat-square&logo=SQLAlchemy)
 ![Alembic](https://img.shields.io/badge/Alembic-black?style=flat-square&logo=Alembic)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=PostgreSQL)
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=MongoDB)
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=MySQL)
 ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=Docker)
 ![Docker-compose](https://img.shields.io/badge/Docker--compose-black?style=flat-square&logo=Docker)
@@ -21,6 +22,7 @@
 
 ![VSCode](https://img.shields.io/badge/VSCode-black?style=flat-square&logo=visual-studio-code)
 ![PyCharm](https://img.shields.io/badge/PyCharm-black?style=flat-square&logo=PyCharm)
+![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=Postman)
 
 ### Connect with me:
 [![Telegram](https://img.shields.io/badge/Telegram-black?style=flat-square&logo=Telegram)](https://t.me/PivnoyFey)
