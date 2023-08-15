@@ -6,6 +6,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-black?style=flat-square&logo=FastAPI)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-black?style=flat-square&logo=SQLAlchemy)
 ![Alembic](https://img.shields.io/badge/Alembic-black?style=flat-square&logo=Alembic)
+![Celery](https://img.shields.io/badge/Celery-171515?style=flat-square&logo=Celery)
 ![Pytest](https://img.shields.io/badge/Pytest-171515?style=flat-square&logo=Pytest)
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=PostgreSQL)
