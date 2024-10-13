@@ -26,5 +26,9 @@
 ![PyCharm](https://img.shields.io/badge/PyCharm-black?style=flat-square&logo=PyCharm)
 ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=Postman)
 
+### additional languages
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=JavaScript)
+![C#](https://img.shields.io/badge/C%23%20-black?style=flat-square&logo=C#)
+
 ### Connect with me:
 [![Telegram](https://img.shields.io/badge/Telegram-black?style=flat-square&logo=Telegram)](https://t.me/PivnoyFey)
